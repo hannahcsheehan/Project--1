@@ -13,4 +13,4 @@ Along with information about types of courses and registration, the [AHA Website
 * [Other Resources](https://cpr.heart.org/en/resources) 
 
 ### ***Source used in the creation of this guide***
-American Heart Association (n.d). American Heart Association. https://www.heart.org/en
+American Heart Association (n.d). American Heart Association. https://www.heart.org/en 

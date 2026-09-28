@@ -15,7 +15,7 @@ The AHA offers many [options for Healthcare professionals](https://cpr.heart.org
 - Pediatric Emergency Assessment, Recognition, and Stabilization (PEARS)
 - Stroke Recognition and Management
 
-[Options for Non-Healthcare Professionals](https://cpr.heart.org/en/course-catalog-search) are also available for anyone who has been required to obtain certifications, whih vary depending on the need for a course completion card:
+[Options for Non-Healthcare Professionals](https://cpr.heart.org/en/course-catalog-search) are also available for anyone who has been required to obtain certifications, which vary depending on the need for a course completion card:
 
 - CPR, AED, or First Aid Training
     - First Aid, CPR, and AED

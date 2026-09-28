@@ -14,5 +14,5 @@
  * eCards:
     * eCards@heaert.org
 * Printed Cards:
-    * Contact the training center that you completed the course at 
+    * Contact the training center that you completed the course at  
 
