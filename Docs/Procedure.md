@@ -2,8 +2,10 @@
 Once all courses have been reviewed and future course participants have identified the specific certification that they require, they will need to register for the course
 
 ### Registration for [Healthcare Professionals](https://cpr.heart.org/en/course-catalog-search) 
+
+
 - Select desired course
-* Select desired course type:
+- Select desired course type:
     * Blended Learning
         * select **buy the course**
     * Classroom
@@ -11,10 +13,17 @@ Once all courses have been reviewed and future course participants have identifi
     * Self-guided learning
         * select **find a CPR Verification Station near you**
 
+
+
+
+
+
  ```mermaid
-graph LR;
-A[Select desired course] --> B[Select desired course type]
+graph LR
+A[Select desired course] -->B[Select desired course type]
     B -->|Blended Learning| C[Select buy the course]
+    B -->|Classroom| D[Select **find a class near you**]
+    B -->|Self-guided learning| E[select **find a CPR verification station near you]
 
 ### Registration for [non-Healthcare Professionals](https://cpr.heart.org/en/course-catalog-search)
 * **If a course completion card is needed:**
