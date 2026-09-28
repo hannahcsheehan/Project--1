@@ -1,7 +1,7 @@
 # How to register for a Certification course
 Once all courses have been reviewed and future course participants have identified the specific certification that they require, they will need to register for the course
 
-### Registration for [Healthcare Professionals](https://cpr.heart.org/en/course-catalog-search):
+### Registration for [Healthcare Professionals](https://cpr.heart.org/en/course-catalog-search) 
 - Select desired course
 * Select desired course type:
     * Blended Learning
@@ -14,7 +14,7 @@ Once all courses have been reviewed and future course participants have identifi
  ```mermaid
 graph LR
 A[Select desired course] --> B[Select desired course type]
-    B --> |Blended Learning| C[Select buy the course]
+    B -->|Blended Learning| C[Select buy the course]
 
 ### Registration for [non-Healthcare Professionals](https://cpr.heart.org/en/course-catalog-search)
 * **If a course completion card is needed:**
