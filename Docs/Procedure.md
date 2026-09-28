@@ -4,12 +4,13 @@ Once all courses have been reviewed and future course participants have identifi
 ### Registration for [Healthcare Professionals](https://cpr.heart.org/en/course-catalog-search) 
 
 
- ```mermaid
+```mermaid
 graph LR
 A[Select desired course] -->B[Select desired course type]
-    B -->|Blended Learning| C[Select buy the course]
-    B -->|Classroom| D[Select **find a class near you**]
-    B -->|Self-guided learning| E[select **find a CPR verification station near you]
+    B -->|Blended Learning| C[buy the course]
+    B -->|Classroom| D[find a class near you]
+    B -->|Self-guided learning| E[find a CPR verification station near you]
+```
 
 ### Registration for [non-Healthcare Professionals](https://cpr.heart.org/en/course-catalog-search)
 * **If a course completion card is needed:**
