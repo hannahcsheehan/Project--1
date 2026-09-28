@@ -4,20 +4,6 @@ Once all courses have been reviewed and future course participants have identifi
 ### Registration for [Healthcare Professionals](https://cpr.heart.org/en/course-catalog-search) 
 
 
-- Select desired course
-- Select desired course type:
-    * Blended Learning
-        * select **buy the course**
-    * Classroom
-        * Select **find a class near you**
-    * Self-guided learning
-        * select **find a CPR Verification Station near you**
-
-
-
-
-
-
  ```mermaid
 graph LR
 A[Select desired course] -->B[Select desired course type]
