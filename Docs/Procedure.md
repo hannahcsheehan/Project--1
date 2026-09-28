@@ -12,7 +12,7 @@ Once all courses have been reviewed and future course participants have identifi
         * select **find a CPR Verification Station near you**
 
  ```mermaid
-graph LR
+graph LR;
 A[Select desired course] --> B[Select desired course type]
     B -->|Blended Learning| C[Select buy the course]
 
