@@ -28,5 +28,5 @@ Individuals required to take a BLS certification course are often given little t
 Additionally, the AHA website contains a plethora of different materials, from certification criteria to making donations to the association. Users may find the influx of content difficult to navigate, thus this document aims to offer instruction as to how to best search for needed information.
 
 ### **To be noted:**
-<u> While the following information may include some clinical instructions as to perform certain life-saving measures, this does NOT replace actual clinical training, and an official certification course should be taken to fully understand this procedures. 
+<u> While the following information may include some clinical instructions as to perform certain life-saving measures, this does NOT replace actual clinical training, and an official certification course should be taken to fully understand this procedures.
 
