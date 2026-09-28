@@ -2,7 +2,7 @@
 Once all courses have been reviewed and future course participants have identified the specific certification that they require, they will need to register for the course
 
 ### Registration for [Healthcare Professionals](https://cpr.heart.org/en/course-catalog-search):
-* Select desired course
+- Select desired course
 * Select desired course type:
     * Blended Learning
         * select **buy the course**
