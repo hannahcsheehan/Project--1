@@ -10,10 +10,11 @@ Once all courses have been reviewed and future course participants have identifi
         * Select **find a class near you**
     * Self-guided learning
         * select **find a CPR Verification Station near you**
-'''mermaid
-graph LR
-A[Select desired course]
-    A -->|Blended Learning|
+
+ </> Mermaid
+Flowchart LR
+A[Select desired course] --> B[Select desired course type]
+    B --> |Blended Learning| C[Select buy the course]
 
 ### Registration for [non-Healthcare Professionals](https://cpr.heart.org/en/course-catalog-search)
 * **If a course completion card is needed:**
