@@ -32,6 +32,6 @@ For non-Healthcare Professionals:
 1. Adult or Child CPR (**Ages 1 year and up**)
 1. Infant CPR (**Ages 0-1 year**)
 1. **Both** Adult or Child CPR and Infant CPR
-1. TESTING FOR EDITS
+1
 
  
